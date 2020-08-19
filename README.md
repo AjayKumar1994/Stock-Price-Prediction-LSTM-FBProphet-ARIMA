@@ -5,6 +5,5 @@ for stock market help traders, investors, and analyst by providing supportive in
 market. Here we are presenting three innovative method to predict the future closing prices of stocks using combination of deep
 learning approach using Long Short-Term Memory (LSTM), Facebook prophet and Auto Regressive Integrated Moving Average
 (ARIMA) time series model to predict the future closing prices of stocks.
-# Data Gathering
-
-[website]: https://finance.yahoo.com/quote/AAPL/history/
+### Raw Data
+The historical "APPLE" stock data is collected from the link https://finance.yahoo.com/quote/AAPL/history/
