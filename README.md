@@ -7,3 +7,4 @@ learning approach using Long Short-Term Memory (LSTM), Facebook prophet and Auto
 (ARIMA) time series model to predict the future closing prices of stocks.
 # Data Gathering
 
+[website]: https://finance.yahoo.com/quote/AAPL/history/
